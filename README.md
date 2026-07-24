@@ -64,7 +64,7 @@ Programs for Pre-calculus on the TI-NSpire CX II (NON-CAS). Adds some functional
     -   ➡️  +/- {1,2,3,4,5,6,10,12,15,20,30,60}   (factors of numerator)
             +/- {1,3}                             (factors of denominator)
             {"±",1/3,2/3,1,4/3,5/3,2,3,10/3,4,5,6,20/3,10,12,15,20,30,60}  (ascending list of factor ratios)
-        - One of these values will be a root of the equation 3*x^(3)-6*x^(2)-57*x+60, and a value for synthetic division.
+        - One of these values will be a root of the equation 3*x^(3)-6*x^(2)-57*x+60, and a start divisor value for synthetic division.
   - findfact(sum,product) - Given a simple quadratic formula, ie: x^2 + 3*x - 28, find the two factors for the two unexpanded source equations:
     - sum=3, product=-28   ➡️   {−4,7} means the two unexpanded source equations are: (x-4)(x+7) for: x^2+3*x-28
   - quadrat(a,b,c) - Similar to polysolve, finds constants and coefficients for quadratic equations.
