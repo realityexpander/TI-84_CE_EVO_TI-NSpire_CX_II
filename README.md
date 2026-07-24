@@ -31,8 +31,8 @@ Alternative Converter
 https://www.cemetech.net/sc/
 
 <h2><b>TI-NSpire Programs</b2></h2>
-<code>
-<h3>compint: Compute Interest / Decay / Compound Interest </h3>
+Programs for Pre-calculus on the TI-NSpire CX II (NON-CAS). Adds some functionality from CAS calculator, like converting decimals to exact values and ratios of pi, useful for confirming hand-written work on tests and quizzes, if your professor allows use of this NON-CAS calculator.
+<code><h3>compint: Compute Interest / Decay / Compound Interest </h3>
   - compint - compute interest given principal, rate, period, time
   - comtcompint - compute continuously compounding interest given principle, rate, time
   - expdecay - compute exponential decay given Initial Amount, Half life (years), time (years)
