@@ -47,14 +47,24 @@ https://www.cemetech.net/sc/
 
 - exacts
   - exact_pi(x) - Convert decimal approximation of a pi ratio to an exact pi ratio, x < 50*pi/50
-  - exact_pi2(x) - Improved exact_pi, convert decimal approximation of a pi ratio to an exact pi ratio, x < n*pi/1000 
+    - x=4.9367884556411 ➡️ {11, "π", "/", 7}      ie: (11π/7) 
+  - exact_pi2(x) - Improved exact_pi, convert decimal approximation of a pi ratio to an exact pi ratio, x < n*pi/1000
+    - x=4.9367884556411 ➡️ {11., "π/", 7.}     ie: (11π/7)
   - exactsq(x) - Find the exact square value given a decimal value x, max ( ((20 * sqrt(100)) / (20) )
-  - minroot - 
-  - nest_rad -
+    - x=10.392304845413 ➡️ {6., "√", 3, "/", 1 }     ie: (6√3)
+  - minroot(x) - Given a value x under a radical, find the minimum root value. Ex: sqrt(27) -> x=27
+    - x=27 ➡️ {3, "√", 3}
+  - nest_rad(a,b,c) - Given coefficients under a nested set of radicals, reduce to two separate radicals.
+    - √( (a ± √b) / c)  ➡️  (√x ± √y)/c
 
 - factors
-  - facts -
-  - findfact -
+  - facts(constant,lead_coeff) - Gives all factors for a an equation, given the leading coefficient and ending constant, used to find roots of a complicated equation (usually above order 2), and finding an initial divisor for synthetic division.
+    - 3*x^(3)-6*x^(2)-57*x+60,  constant (num)=60, lead_coeff (denom)=3
+    -   ➡️  +/- {1,2,3,4,5,6,10,12,15,20,30,60}   (factors of numerator)
+            +/- {1,3}                             (factors of denominator)
+            {"±",1/3,2/3,1,4/3,5/3,2,3,10/3,4,5,6,20/3,10,12,15,20,30,60}  (ascending list of factor ratios)
+        - One of these values will be a root of the equation 3*x^(3)-6*x^(2)-57*x+60, and a value for synthetic division.
+  - findfact - 
   - nest_rad -
   - quadrat -
  
