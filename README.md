@@ -1,4 +1,4 @@
-<h2><b>TI-84 & Evo Programs</b2></h2>
+<h2><b>TI-84 Evo Programs</b2></h2>
 
 - MINROOT - Find the minimum root of a given value under a radical.
   - Sqrt(X), X=27 ➡️ 3 * sqrt(3)
