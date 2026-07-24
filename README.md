@@ -1,36 +1,39 @@
-<h2><b>TI-84 Evo Programs</b2></h2>
+<h1><b>TI-84 Evo Programs</b2></h1>
 
 - MINROOT - Find the minimum root of a given value under a radical.
-  - Sqrt(X), X=27 ➡️ 3 * sqrt(3)
+  - <code>Sqrt(X), X=27 ➡️ 3 * sqrt(3)</code>
 - FACTOR - Find factors of X. 
-  - 27 ➡️ {1,3,9,27}      
+  - <code>27 ➡️ {1,3,9,27}</code>
 - MOD - Calc Modulus of X. Useful for finding co-terminal values.
-  - 295, 180 ➡️ 115
+  - <code>295, 180 ➡️ 115</code>
           
 - PIRATIO - Find the exact pi ratio of a given decimal approximation.
-  - X = 1.832595715 (represents 7pi/12)
-  - 1.832595715 ➡️ 7pi/12
+  - <code>X = 1.832595715 (represents 7pi/12)</code>
+  - <code>1.832595715 ➡️ 7pi/12</code>
           
 - ROOTMATC - Find an exact root that matches a decimal value approximation.
-  - X=5.360475154 (represents 8*sqrt(22)/7 )
-  - 5.360475154 ➡️ 8 * sqrt(22)/7
-
+  - <code>X=5.360475154 (represents 8*sqrt(22)/7 )</code>
+  - <code>5.360475154 ➡️ 8 * sqrt(22)/7</code>
 
 <h3>TI-84 Evo Links:</h3>
 
 Online Calculator (login realityexpander)
-https://ti84evo.ti.com/84evo/en/main-view
+  - https://ti84evo.ti.com/84evo/en/main-view
+  - Use "Send Files" - "send to calculator" to send a program file on computer to a the emulator calculator.
+  - Use "Send Files" - "send to computer" to copy a program from the emulator calculator to your computer files.
 
 Connect to Physical Calculator
-https://connectevo.ti.com/ticevo/en/main-view
+  - https://connectevo.ti.com/ticevo/en/main-view
+  - Use "send to calculator" to send a program file to a physically connected calculator.
+  - Use "send to computer" to copy a program from the physical connected calculator to your computer files.
 
-TI 84 <-> TI 84 EVO Program Converter
-https://tiplanet.org/scripts/EvoConv/
+TI 84 <-> TI-84 EVO TI-BASIC Program Converter (.8xp2 <-> .8xp)
+  - https://tiplanet.org/scripts/EvoConv/
 
-Alternative Converter
-https://www.cemetech.net/sc/
+Alternative TI-BASIC Converter
+  - https://www.cemetech.net/sc/
 
-<h2><b>TI-NSpire Programs</b2></h2>
+<h1><b>TI-NSpire CX-II NON-CAS Programs</b2></h1>
 Programs for Pre-calculus on the TI-NSpire CX II (NON-CAS). Adds some functionality from CAS calculator, like converting decimals to exact values and ratios of pi, useful for confirming hand-written work on tests and quizzes, if your professor allows use of this NON-CAS calculator.
 <code><h3>compint: Compute Interest / Decay / Compound Interest </h3>
   - compint - compute interest given principal, rate, period, time
