@@ -37,6 +37,8 @@ Connect to Physical Calculator
 
 Convert Text File BASIC code to TI-BASIC Encoded file
   - Use TI-CONNECT CE, paste in code, save as .8xp
+  - OR... Use TI-Basic Program Converter @ https://tiplanet.org/scripts/EvoConv/
+    - Paste in the text, save as .8xp or .8xp2
 
 Convert Text File Python to TI-Python, no need to encode, programs are stored as plain text
   - Use TI Connect Evo, simply upload to calculator
