@@ -35,6 +35,12 @@ Connect to Physical Calculator
   - Use "send to calculator" to send a program file to a physically connected calculator.
   - Use "send to computer" to copy a program from the physical connected calculator to your computer files.
 
+Convert Text File BASIC code to TI-BASIC Encoded file
+  - Use TI-CONNECT CE, paste in code, save as .8xp
+
+Convert Text File Python to TI-Python, no need to encode, programs are stored as plain text
+  - Use TI Connect Evo, simply upload to calculator
+
 TI 84 <-> TI-84 EVO TI-BASIC Program Converter (.8xp2 <-> .8xp)
   - https://tiplanet.org/scripts/EvoConv/
 
