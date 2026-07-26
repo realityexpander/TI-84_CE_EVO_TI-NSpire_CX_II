@@ -114,6 +114,14 @@ Alternative TI-BASIC Converter
 - semi_perim(side_a,side_b,side_c)</code>
   - Computes semi-perimeter =(a+b+c)/2
   - ex: <<code> semi_perimeter(3,4,5)   ➡️  6 </code>
+- <code>solve_ass(ang_a, side_a, side_b)</code>
+  - Computes triangle data for 0, 1, 2 triangle cases for SSA triangles
+  - Outputs the 1st & 2nd triangle angles, A, B, C, and length a, b, c
+  - ex: <code> law_of_cos\solve_ass(60,14,15)    ➡️
+    [["1△°A,B,C",60,68.107391093321,51.892608906679]
+    ["1 len a,b,c",14,15,12.720153254454]
+    ["2△°A',B',C'",60,111.89260890668,8.10739109332]
+    ["2 len a',b',c'",14,15,2.2798467455463]] </code>
 - tri_area(side_a,side_b,side_c)</code>
   - Computes area of triangle, s=semi-perimiter,  =sqrt(s*(s-side_a)*(s-side_b)*(s-side_c))
   - ex: <code> tri_area(3,4,5)   ➡️  6 </code>
