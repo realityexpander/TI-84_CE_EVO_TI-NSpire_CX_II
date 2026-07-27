@@ -89,9 +89,9 @@ Alternative TI-BASIC Converter
 - <code>facts(constant,lead_coeff)</code> - Gives all factors for a an equation, given the leading coefficient and ending constant, used to find roots of a complicated equation (usually above order 2), and finding an initial divisor for synthetic division.
   - <code>3*x^(3)-6*x^(2)-57*x+60,  constant (num)=60, lead_coeff (denom)=3
   -  facts(60,3) ➡️
-    - +/- {1,2,3,4,5,6,10,12,15,20,30,60}   (factors of numerator)
-      +/- {1,3}                             (factors of denominator)
-      {"±",1/3,2/3,1,4/3,5/3,2,3,10/3,4,5,6,20/3,10,12,15,20,30,60}  (ascending list of factor ratios) </code>
+     - +/- {1,2,3,4,5,6,10,12,15,20,30,60}   (factors of numerator)
+     - +/- {1,3}                             (factors of denominator)
+     -  {"±",1/3,2/3,1,4/3,5/3,2,3,10/3,4,5,6,20/3,10,12,15,20,30,60}  (ascending list of factor ratios) </code>
   - One of these values will be a root of the equation 3*x^(3)-6*x^(2)-57*x+60, and a start divisor value for synthetic division.
 - <code>findfact(sum,product)</code>
   - Given a simple quadratic formula, ie: x^2 + 3*x - 28, find the two factors for the two unexpanded source equations:
