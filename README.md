@@ -105,9 +105,9 @@ Alternative TI-BASIC Converter
 
 - These could possibly solved better using the nsolve command (in DEG mode): 
   - ex:<code>nSolve(c^2=a^2+b^2-2*a*b*cos(cd),cd)|a=3 and b=4 and c=5   ➡️   ad=90</code>
-- <code>law_of_cos_ssa(side_a, side_b, ang_c)</code>
-  - Computes side C length, USE DEGREE MODE!
-  - ex: <code> law_of_cos_ssa(3,4,90)   ➡️  90 (90 degrees) </code>
+- <code>law_of_cos_sas(side_a, ang_c, side_b)</code>
+  - Computes side C length. ang_c is in degrees and does not require DEG mode. 
+  - ex: <code> law_of_cos_sas(3,90,4)   ➡️  5 </code>
 - <code>law_cos_sss(side_a, side_b, side_c)</code>
   - Computes angle for opposite side_a
   - ex: <code> law_of_cos_sss(3,4,5)   ➡️  36.8699 </code>
