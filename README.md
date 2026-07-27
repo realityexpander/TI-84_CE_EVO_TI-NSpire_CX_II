@@ -109,14 +109,14 @@ Alternative TI-BASIC Converter
   - Computes side C length. ang_c is in degrees and does not require DEG mode. 
   - ex: <code> law_of_cos_sas(3,90,4)   ➡️  5 </code>
 - <code>law_cos_sss(side_a, side_b, side_c)</code>
-  - Computes angle for opposite side_a
-  - ex: <code> law_of_cos_sss(3,4,5)   ➡️  36.8699 </code>
+  - Computes angle A (opposite side_a) in DEGREES.
+  - ex: <code> law_of_cos_sss(3,4,5)   ➡️  36.8699° </code>
 - semi_perim(side_a,side_b,side_c)</code>
   - Computes semi-perimeter =(a+b+c)/2
   - ex: <<code> semi_perimeter(3,4,5)   ➡️  6 </code>
 - <code>solve_ass(ang_a, side_a, side_b)</code>
-  - Computes triangle data for 0, 1, 2 triangle cases for SSA triangles
-  - Outputs the 1st & 2nd triangle angles, A, B, C, and length a, b, c
+  - Computes triangle data for 0, 1, 2 triangle cases for SSA triangles.
+  - Outputs the 1st & 2nd triangle angles, A, B, C, and length a, b, c.
   - ex: <code> law_of_cos\solve_ass(60,14,15)    ➡️
     [["1△°A,B,C",60,68.107391093321,51.892608906679]
     ["1 len a,b,c",14,15,12.720153254454]
