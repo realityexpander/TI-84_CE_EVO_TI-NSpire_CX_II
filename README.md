@@ -1,10 +1,11 @@
 <h1><b>TI-84 Evo Programs</b2></h1>
 
-- <h3><i>MINROOT</i></h3> 
+- <h3>MINROOT</h3> 
 
   - Find the minimum root of a given value under a radical.
   - <code>Sqrt(X), X=27 ➡️ 3 * sqrt(3)</code>
-- <h3><i>FACTOR</i></h3> 
+  
+- <h3>FACTOR</h3> 
 
   - Find factors of X. 
   - <code>27 ➡️ {1,3,9,27}</code>
