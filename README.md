@@ -60,19 +60,19 @@ Connect to Physical Calculator
 
 <h3>TI-84 <-> CE <-> Text File Conversion Links:</h3>
 
-Convert Text File BASIC code to TI-BASIC Encoded file
-  - Use TI-CONNECT CE, paste in code, save as .8xp
-  - OR... Use TI-Basic Program Converter @ [https://tiplanet.org/scripts/EvoConv/](https://tiplanet.org/scripts/EvoConv/)
-    - Paste in the text, save as .8xp or .8xp2
+  - Convert Text File BASIC code to TI-BASIC Encoded file
+    - Use TI-CONNECT CE, paste in code, save as .8xp
+    - OR... Use TI-Basic Program Converter @ [https://tiplanet.org/scripts/EvoConv/](https://tiplanet.org/scripts/EvoConv/)
+      - Paste in the text, save as .8xp or .8xp2
 
-Convert Text File Python to TI-Python, no need to encode, programs are stored as plain text
-  - Use TI Connect Evo, simply upload to calculator
+  - Convert Text File Python to TI-Python, no need to encode, programs are stored as plain text
+    - Use TI Connect Evo, simply upload to calculator
 
-TI 84 <-> TI-84 EVO TI-BASIC Program Converter (.8xp2 <-> .8xp)
-  - https://tiplanet.org/scripts/EvoConv/
+  - TI 84 <-> TI-84 EVO TI-BASIC Program Converter (.8xp2 <-> .8xp)
+    - https://tiplanet.org/scripts/EvoConv/
 
-Alternative TI-BASIC Converter
-  - https://www.cemetech.net/sc/
+  - Alternative TI-BASIC Converter
+    - https://www.cemetech.net/sc/
 
 <a id="2-ti-nspire-cx-ii"></a>
 
