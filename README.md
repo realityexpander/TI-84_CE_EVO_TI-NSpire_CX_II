@@ -34,10 +34,10 @@ A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculato
 - <h3>ROOTMATC</h3> 
   
   - Find an exact root that matches a decimal value approximation.
-  - <code>X=5.360475154 (represents 8*sqrt(22)/7 )</code>
+  - <code>X=5.360475154 (represents 8*√(22)/7 )</code>
   - ex: <code>5.360475154 ➡️ 8*√22/7</code>
 
-<h3>TI-84 Evo Links:</h3>
+<h2>TI-84 Evo Links:</h2>
 
 Online Calculator (login realityexpander)
   - [https://ti84evo.ti.com/84evo/en/main-view](https://ti84evo.ti.com/84evo/en/main-view)
