@@ -3,8 +3,8 @@
 ### [TI-84 Evo & CE Programs](#1-ti-84-evo-ce-programs)
 ### [TI-Nspire CX-II NON-CAS programs](#2-ti-nspire-cx-ii-non-cas-programs)
 
-## 1. TI-84 EVO & CE Programs
 <a id="1-ti-84-evo-ce-programs"></a>
+## 1. TI-84 EVO & CE Programs
 
 A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculators designed to streamline advanced algebraic and trigonometric calculations. This repository provides a toolkit to bridge the gap between floating-point decimal approximations and exact mathematical expressions, making it easier to simplify radicals, factor integers, and reverse-engineer exact values from decimals.
 
@@ -72,8 +72,8 @@ TI 84 <-> TI-84 EVO TI-BASIC Program Converter (.8xp2 <-> .8xp)
 Alternative TI-BASIC Converter
   - https://www.cemetech.net/sc/
 
-# 2.TI-Nspire CX-II NON-CAS programs
 <a id="2-ti-nspire-cx-ii-non-cas-programs"></a>
+# 2.TI-Nspire CX-II NON-CAS programs
 
 <h2>Programs for Pre-calculus on the TI-NSpire CX II (NON-CAS). Adds some functionality from CAS calculator, like converting decimals to exact values and ratios of pi, useful for confirming hand-written work on tests and quizzes, if your professor allows use of this NON-CAS calculator.</h2>
 <h3><i>compint</i>: Compute Interest / Decay / Compound Interest </h3>
