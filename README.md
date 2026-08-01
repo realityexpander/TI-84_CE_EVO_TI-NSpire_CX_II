@@ -25,17 +25,17 @@ A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculato
 - <h3>MOD</h3> 
 
   - Calc Modulus of X. Useful for finding co-terminal values.
-  - <code>295, 180 ➡️ 115</code> 
+  - ex: <code>295, 180 ➡️ 115</code> 
 - <h3>PIRATIO</h3> 
 
   - Find the exact pi ratio of a given decimal approximation.
-  - <code>X = 1.832595715 (represents 7pi/12)</code>
-  - <code>1.832595715 ➡️ 7pi/12</code>
+  - <code>X = 1.832595715 (represents 7π/12)</code>
+  - ex: <code>1.832595715 ➡️ 7π/12</code> 
 - <h3>ROOTMATC</h3> 
   
   - Find an exact root that matches a decimal value approximation.
-  - <code>X=5.360475154 (represents 8*√(22)/7 )</code>
-  - <code>5.360475154 ➡️ 8*√(22)/7</code>
+  - <code>X=5.360475154 (represents 8*sqrt(22)/7 )</code>
+  - ex: <code>5.360475154 ➡️ 8*√22/7</code>
 
 <h3>TI-84 Evo Links:</h3>
 
