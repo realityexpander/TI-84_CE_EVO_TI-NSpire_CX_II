@@ -86,10 +86,10 @@ Connect to Physical Calculator
      
       <img width="238" alt="Screenshot 2026-08-01 at 12 30 40 PM" src="https://github.com/user-attachments/assets/00dcc709-b3b9-426d-9c7e-e2a73d8610d1" />
     
-  3. Transfer the "ROMDUMP.8xp" to your physical calculator using "TI-Connect CE".
-  4. Check your OS version number on your physical calculator.
+  4. Transfer the "ROMDUMP.8xp" to your physical calculator using "TI-Connect CE".
+  5. Check your OS version number on your physical calculator.
      -   [2nd]  →  [mem/+]  →  [1.About] [ENTER] 
-  6. If your physical calculator has OS 5.3 to 5.8.4, you will need to download and transfer the "Artifice" jailbreak program to TI-84 Plus CE using TI-Connect CE. This program allows your calculator to run old assembly programs on your TI-84 Plus CE physical calculator.
+  6. If your physical calculator has OS 5.3 to 5.8.4, you will need to download and transfer the "Artifice" jailbreak program to physical calculator using TI-Connect CE. This program allows your calculator to run old assembly programs on your TI-84 Plus CE physical calculator.
 
      - https://yvantt.github.io/arTIfiCE/
 
