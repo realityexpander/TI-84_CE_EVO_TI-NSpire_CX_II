@@ -76,7 +76,7 @@ Alternative TI-BASIC Converter
 
 <a id="2-ti-nspire-cx-ii"></a>
 
-# 2.TI-Nspire CX-II NON-CAS programs
+# 2. TI-Nspire CX-II NON-CAS programs
 
 <h2>Programs for Pre-calculus on the TI-NSpire CX II (NON-CAS). Adds some functionality from CAS calculator, like converting decimals to exact values and ratios of pi, useful for confirming hand-written work on tests and quizzes, if your professor allows use of this NON-CAS calculator.</h2>
 <h3><i>compint</i>: Compute Interest / Decay / Compound Interest </h3>
