@@ -59,6 +59,9 @@ Connect to Physical Calculator
   - Use "send to calculator" to send a program file to a physically connected calculator.
   - Use "send to computer" to copy a program from the physical connected calculator to your computer files.
 
+  - Web-based Alternative to "TI Connect CE"
+    - https://ticalc.link/   
+
 <h3>TI-84 Evo ↔ CE ↔ Text File Conversion Links:</h3>
 
   - Convert Text File BASIC code to TI-BASIC Encoded file
