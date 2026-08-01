@@ -20,7 +20,7 @@ A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculato
   
 - <h3>FACTOR</h3> 
 
-  - Find factors of X. 
+  - Find prime factors of X. 
   - ex: <code>27 ➡️ {1,3,9,27}</code>
 - <h3>MOD</h3> 
 
