@@ -15,12 +15,13 @@ A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculato
 - <h3>MINROOT</h3> 
 
   - Find the minimum root of a given value under a radical.
-  - <code>Given the X integer under the radical (for Sqrt(X)), X=27 ➡️ 3*√(3)</code>
+  - Given the X integer under the radical (for Sqrt(X) just use X)
+  - ex: <code>X=27 ➡️ 3*√(3)</code>
   
 - <h3>FACTOR</h3> 
 
   - Find factors of X. 
-  - <code>27 ➡️ {1,3,9,27}</code>
+  - ex: <code>27 ➡️ {1,3,9,27}</code>
 - <h3>MOD</h3> 
 
   - Calc Modulus of X. Useful for finding co-terminal values.
@@ -33,8 +34,8 @@ A collection of utility programs for TI-EVO and TI-84 Plus CE graphing calculato
 - <h3>ROOTMATC</h3> 
   
   - Find an exact root that matches a decimal value approximation.
-  - <code>X=5.360475154 (represents 8*sqrt(22)/7 )</code>
-  - <code>5.360475154 ➡️ 8 * sqrt(22)/7</code>
+  - <code>X=5.360475154 (represents 8*√(22)/7 )</code>
+  - <code>5.360475154 ➡️ 8*√(22)/7</code>
 
 <h3>TI-84 Evo Links:</h3>
 
