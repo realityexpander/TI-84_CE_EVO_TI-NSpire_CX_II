@@ -113,10 +113,13 @@ Connect to Physical Calculator
   
       - This will save a copy of the ROM into the calculator main memory as a series of files (ROMData segments of 64k binary ROM info.)
   8. Using "TI-Connect CE", copy all the "ROMData#" (Where # is a letter from A to Z) segments from the physical calculator to your computer.
+  
+       - <img width="398" alt="image" src="https://github.com/user-attachments/assets/33d1f51e-70c6-48b4-beee-bcc25c01c067" />
   9. Drag and Drop all these "ROMData#" files from your computer to the "Drop ROM Segments Here" target.
+
        - <img width="238" alt="image" src="https://github.com/user-attachments/assets/8de3576e-dcbd-49a4-ab07-7cc7484e3426" />
-  10. The "CE-EMU" program will then boot up the calculator with the ROMDUMP data and show the calculator startup screen.
-  11. Transfer programs
+  11. The "CE-EMU" program will then boot up the calculator with the ROMDUMP data and show the calculator startup screen.
+  12. Transfer programs
      -  You may now drag and drop files to the "CE-EMU" calculator window to load, run and edit programs.
       
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/6aab6d69-8a84-48f2-8f79-824ff8a5c63d" />
