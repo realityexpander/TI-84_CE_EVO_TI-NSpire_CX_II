@@ -1,4 +1,4 @@
-<h1><b>TI-84 Evo Programs</b2></h1>
+<h1><b>TI-84 CE & Evo Programs</b2></h1>
 
 - <h3>MINROOT</h3> 
 
@@ -27,18 +27,30 @@
 <h3>TI-84 Evo Links:</h3>
 
 Online Calculator (login realityexpander)
-  - https://ti84evo.ti.com/84evo/en/main-view
+  - [https://ti84evo.ti.com/84evo/en/main-view](https://ti84evo.ti.com/84evo/en/main-view)
   - Use "Send Files" - "send to calculator" to send a program file on computer to a the emulator calculator.
   - Use "Send Files" - "send to computer" to copy a program from the emulator calculator to your computer files.
 
 Connect to Physical Calculator
-  - https://connectevo.ti.com/ticevo/en/main-view
+  - [https://connectevo.ti.com/ticevo/en/main-view](https://connectevo.ti.com/ticevo/en/main-view)
   - Use "send to calculator" to send a program file to a physically connected calculator.
   - Use "send to computer" to copy a program from the physical connected calculator to your computer files.
 
+<h3>TI-84 CE Plus Links:</h3>
+
+Online Calculator (login realityexpander)
+  - [https://ti84evo.ti.com/84evo/en/main-view](https://84plusce.ti.com/8eu/main-view)
+
+Connect to Physical Calculator
+  - Use "TI Connect CE" App
+  - Use "send to calculator" to send a program file to a physically connected calculator.
+  - Use "send to computer" to copy a program from the physical connected calculator to your computer files.
+
+<h3>TI-84 <-> CE <-> Text File Conversion Links:</h3>
+
 Convert Text File BASIC code to TI-BASIC Encoded file
   - Use TI-CONNECT CE, paste in code, save as .8xp
-  - OR... Use TI-Basic Program Converter @ https://tiplanet.org/scripts/EvoConv/
+  - OR... Use TI-Basic Program Converter @ [https://tiplanet.org/scripts/EvoConv/](https://tiplanet.org/scripts/EvoConv/)
     - Paste in the text, save as .8xp or .8xp2
 
 Convert Text File Python to TI-Python, no need to encode, programs are stored as plain text
