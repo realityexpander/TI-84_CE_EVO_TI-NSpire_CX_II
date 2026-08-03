@@ -156,11 +156,11 @@ Connect to Physical Calculator
 <h3><i>exacts</i>: Find the exact values based on decimal approximations within an error range.</h3>
 
 - <code>exact_pi(x)</code>
-  - Convert decimal approximation of a pi ratio to an exact pi ratio, x < 50*pi/50
-  - <code>ex: exact_pi(4.9367884556411) ➡️ {11, "π", "/", 7}      ie: (11π/7) </code>
-- <code>exact_pi2(x)</code>
   - Improved exact_pi, convert decimal approximation of a pi ratio to an exact pi ratio, x < n*pi/1000
   - <code>ex: exact_pi(4.9367884556411) ➡️ {11., "π/", 7.}     ie: (11π/7) </code>
+- <code>exact_pi_old(x)</code>
+  - SLOW VERSION - Convert decimal approximation of a pi ratio to an exact pi ratio, x < 50*pi/50
+  - <code>ex: exact_pi(4.9367884556411) ➡️ {11, "π", "/", 7}      ie: (11π/7) </co
 - <code>exactsq(x)</code>
   - Find the exact square value given a decimal value x, max ( ((20 * sqrt(100)) / (20) )
   - <code>ex: exactsq(10.392304845413) ➡️ {6., "√", 3, "/", 1 }     ie: (6√3)</code>
