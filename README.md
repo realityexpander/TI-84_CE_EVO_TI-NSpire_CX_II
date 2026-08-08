@@ -1,7 +1,7 @@
-<h1><b>TI-84 CE, Evo & Nspire CX-II NON-CAS Programs for Pre-Calculus & Calculus I</b2></h1>
+<h1>Programs for Pre-Calculus & Calculus I</h1>
 
-### [1. TI-84 Evo & CE Programs](#1-ti-84-evo-ce)
-### [2. TI-Nspire CX-II NON-CAS programs](#2-ti-nspire-cx-ii)
+## [1. TI-84 Evo & CE Programs](#1-ti-84-evo-ce)
+## [2. TI-Nspire CX-II NON-CAS programs](#2-ti-nspire-cx-ii)
 
 
 <a id="1-ti-84-evo-ce"></a>
